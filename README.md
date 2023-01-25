@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/LouFagan/advice-generator.git)
-- Live Site URL: [Add live site URL here](https://cheery-cendol-8cc11b.netlify.app)
+- Solution URL: [GitHub Files](https://github.com/LouFagan/advice-generator.git)
+- Live Site URL: [Live site](https://cheery-cendol-8cc11b.netlify.app)
 
 ## My process
 
